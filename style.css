@@ -263,6 +263,10 @@ body {
   margin-top: 0;
 }
 
+.badge {
+  margin-right: 10px;
+}
+
 .lang {
   color: var(--primary-b-400, #6070ff);
   font-size: 12px;
