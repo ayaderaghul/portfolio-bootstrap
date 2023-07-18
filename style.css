@@ -524,6 +524,10 @@ textarea::placeholder {
     flex-direction: row wrap;
   }
 
+  .navbar-nav {
+    float: right;
+  }
+
   .item {
     list-style: none;
     padding: 0 16px;
